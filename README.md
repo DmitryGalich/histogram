@@ -29,3 +29,6 @@ make -j(Cores number + 1)
 - ***libs*** - Holds **libraries** code and its **tests**. In this version there is only library for creating histogram.
 - ***etc*** - Holds configuration file for asking OS about current absolute path of binary file
 - ***screenshots*** - Holds (as you might notice) the screenshots for Readme.md file
+
+### Project structure:
+File for testing: ```/libs/words_histogram_lib/share/verified_test_files/test_file.txt```
