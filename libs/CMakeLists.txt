@@ -1,0 +1,1 @@
+add_subdirectory(words_histogram_lib)
