@@ -4,7 +4,7 @@
 
 Application for showing most repeatifull words in text file via histrogram form. Words in top are sorted in alphabet order.
 
-**Development was performed with CMake flags: "Advanced list of errors" and "Warning as errors". Every development branch was squashed to single commi and merged with main branch.**
+**Development was performed with CMake flags: "Advanced list of errors" and "Warning as errors". Every development branch was squashed to single commit and merged with main branch.**
 
  ![Histogram](<screenshots/histogram.png>).
 
